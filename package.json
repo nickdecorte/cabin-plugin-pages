@@ -1,0 +1,31 @@
+{
+  "name": "strapi-plugin-pages",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "Pages",
+    "icon": "plug",
+    "description": "Description of pages plugin."
+  },
+  "dependencies": {
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5"
+  },
+  "author": {
+    "name": "A Strapi developer",
+    "email": "",
+    "url": ""
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
